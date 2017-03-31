@@ -1,0 +1,2 @@
+# nattoku_algorithm
+翔泳社のなっとく！アルゴリズムのコードがpython2.7で書かれているのでpython3やrubyで実装するレポジトリ
